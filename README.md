@@ -1,4 +1,4 @@
-![image](https://github.com/cadocruz/CarManager/CarManager.png)
+![image](https://github.com/cadocruz/CarManager/raw/master/CarManager/CarManager.png)
 
 CarManager
 =================
